@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Con Vit Software
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: TB
+description: Mobile Consulting & Mobile Apps
+email: tim@email.com
+phone: 
+address: Leek, Staffordshire, UK
+copyright: Copyright &copy; 2024
 
 menu:
   - { name: About, link: "/about" }
@@ -48,10 +48,10 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: I make Software for the mobile ecosystem with a focus on quality and usability. Developing my own products and projects alongside providing consulting for companies looking to ensure they have a great app store footprint. Developing apps for a decade plus in a variety of industries and settings, with millions of users touching software I wrote.
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: About Me
 
 # About Page
 
@@ -86,36 +86,36 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
-skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+#skills-title: Skills
+#skills:
+#  - { name: Web Design, color: "#fdb157", value: "90%" }
+#  - { name: Logo Design, color: "#9473e6", value: "60%" }
+#  - { name: After Effects, color: "#bdecf6", value: "80%" }
+#  - { name: Web App, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
-# Exprerience Section
+# Experience Section
 
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
-      icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
-    }
-  - {
-      name: UX & UI Designer,
-      icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
-    }
-  - {
-      name: Senior UI Designer,
+      name: Senior iOS Developer,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Sept 2018 - Apr 2021",
+      organization: "Ready2Order GmbH",
     }
+  - {
+      name: Senior iOS Developer,
+      icon: "icon-2.png",
+      date: "May 2021 - Oct 2022",
+      organization: "Rendity GmbH",
+    }
+  - {
+      name: Senior iOS Developer,
+      icon: "icon-1.png",
+      date: "Nov 2022 - Apr 2024",
+      organization: "Flutter Interactive Plc",
+  }
 
 #-------------------------------
 # Education Section
@@ -123,24 +123,9 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
-    }
-  - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      name: MSci & BSc Hons Computer Science,
+      date: "2012",
+      organization: "The University of Nottingham",
     }
 
 #-------------------------------
@@ -149,21 +134,21 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
+      name: Co-Founding,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "I am open to joining a group of co-founders who are looking for a technically skilled engineer to bring an existing idea to market. I can provide the engineering skills required for a fantastic mobile first experience. Contact me below",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: App Development (Full time),
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "I am available for full time app development on pre-existing and greenfield apps either in a team setting or as an individual. Contract lengths of 3 months and up will be considered. I can provide mentoring and support to enable your current team to succeed.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: App Development (Part time),
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Got a small app or an existing app that needs to be maintained? I will be able to assist in this on a part time continuous basis. Please enquire below.",
       active: ,# Add true to select section
     }
 
@@ -246,56 +231,56 @@ portfolio-items:
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#testimonial-items:
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    designation: "CEO, Funder"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#    designation: "CEO, Funder"
+#
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    designation: "CEO, Funder"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Client Slider Section
-
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-
+#
+#client-slider-items:
+#  - logo: "assets/images/clients-logo/client-logo-1.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-2.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-3.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-4.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-5.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-1.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-2.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-3.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-4.png"
+#    url: "#"
+#
+#  - logo: "assets/images/clients-logo/client-logo-5.png"
+#    url: "#"
+#
 #-------------------------------
 # Contact Section
 
