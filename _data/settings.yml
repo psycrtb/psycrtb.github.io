@@ -40,7 +40,7 @@ hero:
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/tim-belfield-8a516b47/" }
-#  - { icon: "ti-instagram", link: "#" }
+  - { icon: "ti-github", link: "https://github.com/psycrtb" }
 #  - { icon: "ti-dribbble", link: "#" }
 #  - { icon: "ti-twitter", link: "#" }
 
