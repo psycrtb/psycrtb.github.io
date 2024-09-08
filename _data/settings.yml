@@ -7,7 +7,7 @@ logo:
 author: TB
 description: Mobile Consulting & Mobile Apps
 email: tim@email.com
-phone: 
+#phone: 
 address: Leek, Staffordshire, UK
 copyright: Copyright &copy; 2024
 
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Tim <br> iOS Developer
 
 social:
   - { icon: "ti-facebook", link: "#" }
