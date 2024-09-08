@@ -2,13 +2,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Con Vit Software
+title: Con Vịt Software
 logo:
 author: TB
 description: Mobile Consulting & Mobile Apps
 email: tim@email.com
 #phone: 
-address: Leek, Staffordshire, UK
+address: Leek, Staffordshire, UK | Sài Gòn, VN
 copyright: Copyright &copy; 2024
 
 menu:
@@ -39,10 +39,10 @@ hero:
   hero-title: Hi! I’m <br> Tim, <br> iOS Developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/tim-belfield-8a516b47/" }
+#  - { icon: "ti-instagram", link: "#" }
+#  - { icon: "ti-dribbble", link: "#" }
+#  - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
