@@ -12,4 +12,4 @@ I found that I had significant interest in the mobile software ecosystem in 2011
 
 In my free time away from my career I have a small family whom i love to spend time with. I have an interest in fitness with overall health, activity and longevity as a goal. This is achieved through a passion for middle distance Running, strength workouts and seasonal interests like Skiing. 
 
-I am studying Vietnamese (hence the name Con Vịt) and to spend time in Vietnam and talking to Vietnamese people in their language.
+I am studying Vietnamese (hence the name Con Vịt) and love to spend time in Vietnam and talking to Vietnamese people in their language.
